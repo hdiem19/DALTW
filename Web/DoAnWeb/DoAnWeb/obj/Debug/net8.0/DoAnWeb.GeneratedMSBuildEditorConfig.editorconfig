@@ -26,6 +26,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\TriPham\Desktop\DoAnWeb\Web\DoAnWeb\DoAnWeb
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/TriPham/Desktop/DoAnWeb/Web/DoAnWeb/DoAnWeb/Areas/Admin/Views/AdminLoaiTaiKhoans/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Mb2FpVGFpS2hvYW5zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TriPham/Desktop/DoAnWeb/Web/DoAnWeb/DoAnWeb/Areas/Admin/Views/AdminLoaiTaiKhoans/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Mb2FpVGFpS2hvYW5zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TriPham/Desktop/DoAnWeb/Web/DoAnWeb/DoAnWeb/Areas/Admin/Views/AdminLoaiTaiKhoans/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Mb2FpVGFpS2hvYW5zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TriPham/Desktop/DoAnWeb/Web/DoAnWeb/DoAnWeb/Areas/Admin/Views/AdminLoaiTaiKhoans/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Mb2FpVGFpS2hvYW5zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TriPham/Desktop/DoAnWeb/Web/DoAnWeb/DoAnWeb/Areas/Admin/Views/AdminLoaiTaiKhoans/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Mb2FpVGFpS2hvYW5zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/TriPham/Desktop/DoAnWeb/Web/DoAnWeb/DoAnWeb/Areas/Admin/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -250,4 +250,5 @@ C:\Users\TriPham\Desktop\DoAnWeb\Web\DoAnWeb\DoAnWeb\obj\Debug\net8.0\refint\DoA
 C:\Users\TriPham\Desktop\DoAnWeb\Web\DoAnWeb\DoAnWeb\obj\Debug\net8.0\DoAnWeb.pdb
 C:\Users\TriPham\Desktop\DoAnWeb\Web\DoAnWeb\DoAnWeb\obj\Debug\net8.0\DoAnWeb.genruntimeconfig.cache
 C:\Users\TriPham\Desktop\DoAnWeb\Web\DoAnWeb\DoAnWeb\obj\Debug\net8.0\ref\DoAnWeb.dll
+C:\Users\TriPham\Desktop\DoAnWeb\Web\DoAnWeb\DoAnWeb\obj\Debug\net8.0\DoAnWeb.sourcelink.json
 C:\Users\TriPham\Desktop\DoAnWeb\Web\DoAnWeb\DoAnWeb\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_AdminLayout.cshtml.rz.scp.css

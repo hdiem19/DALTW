@@ -13,14 +13,10 @@ namespace DoAnWeb.Models
         public DbSet<SanPham> SanPhams { get; set; }
         public DbSet<LoaiSP> LoaiSPs { get; set; }
         public DbSet<KhuyenMai> KhuyenMais { get; set; }
-
         public DbSet<DonHang> DonHangs { get; set; }
         public DbSet<CTDonHang> CTDonHangs { get; set; }
         public DbSet<TaiKhoan> TaiKhoans { get; set; }
-
-        public DbSet<ThongTinCaNhan> ThongTinCaNhans { get; set; }
-        public DbSet<CTGioHang> CTGioHangs { get; set; }
-        public DbSet<GioHang> GioHangs { get; set; }
-        public DbSet<DanhGiaSP> DanhGiaSPs { get; set; }
+       public DbSet<LoaiTaiKhoan> LoaiTaiKhoans { get; set; }
+        public DbSet<DanhGia> DanhGias { get; set; }
     }
 }

@@ -9,9 +9,13 @@ namespace DoAnWeb.Models
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int IdCTDH { get; set; }
+      
         public int IdDH { get; set; }
-        public int IdGH { get; set; }
-        public DonHang DonHangs { get; set; }
-        public GioHang GioHangs { get; set; }
+        [ForeignKey("IdDH")]
+        public virtual DonHang DonHangs { get; set; }
+        public int IdSP { get; set; }
+        [ForeignKey("IdSP")]
+    
+        public virtual SanPham SanPham { get; set; }
     }
 }

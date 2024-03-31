@@ -10,8 +10,8 @@ namespace DoAnWeb.Models
         public int IdLoaiSP { get; set; }
 
         [Required(ErrorMessage = "Tên loại sản phẩm là trường bắt buộc.")]
+        [MaxLength(100)]
         public string TenLoaiSP { get; set; }
-        public int IdSP { get; set; }
-        public SanPham SanPhams { get; set; }
+        public  ICollection<SanPham> SanPhams { get; set; }
     }
 }
